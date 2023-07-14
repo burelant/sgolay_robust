@@ -35,6 +35,10 @@ Examples of function calls:
 
 The parameters of the filter should be appropriately set to avoid overfitting. Using a large polynomial order value is therefore not a good idea, even if the script performs a certain regularization of the data during the IRLS procedure (matrix inversion according to Moore-Penrose).
 
+## Examples
+
+Examples are provided [here](./EXAMPLES.md).
+
 ## Disclaimer
 
 Author: Antoine BUREL
