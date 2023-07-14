@@ -30,3 +30,11 @@ Examples of function calls:
 * `[y0, s] = sgolay_robust(y,10,2,1)`
 * `[y0, s] = sgolay_robust(y,10,2,10,"interpolation_method","makima")`
 * `[y0, s] = sgolay_robust(y,10,2,10,"interpolation_method","makima","MaxIter",50)`
+
+## Disclaimer
+
+Author: Antoine BUREL
+
+The script is licensed under the CC0 1.0 Universal terms. See [LICENSE](./LICENSE) file.
+
+The author accepts no responsibility for the use of the script.
