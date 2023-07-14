@@ -33,7 +33,7 @@ A synthetic noisy signal with non constant baseline and gaussian peaks can be ge
     xlabel("Signal variable") ;
     ylabel("Signal intensity") ;
 
-The code can generate outputs lije the following one:
+The code can generate outputs like the following one:
 
 <img src="signal.png" width="400" height="300"/>
 
