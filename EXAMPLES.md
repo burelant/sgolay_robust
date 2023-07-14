@@ -34,3 +34,5 @@ A synthetic noisy signal with non constant baseline and gaussian peaks can be ge
     ylabel("Signal intensity") ;
 
 The code produces the following output:
+
+![An example of generated signal](./signal.png)
